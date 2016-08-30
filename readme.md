@@ -1,7 +1,7 @@
 Arduino Sunrise Sunset Library
 ==============================
-http://www.andregoncalves.info/ag_blog/?p=47
-http://swfltek.com/arduino/sunrise.html
+ - http://www.andregoncalves.info/ag_blog/?p=47
+ - http://swfltek.com/arduino/sunrise.html
 
 ```
 Arduino Sunrise Sunset Library
