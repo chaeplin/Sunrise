@@ -1,0 +1,10 @@
+Sunrise	KEYWORD1
+
+Civil	KEYWORD2
+Nautical	KEYWORD2
+Astronomical	KEYWORD2
+Actual	KEYWORD2
+Rise	KEYWORD2
+Set	KEYWORD2
+Hour	KEYWORD2
+Minute	KEYWORD2
